@@ -1,0 +1,25 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<h3>All trainings</h3>
+
+<table class="table table-condensed table-hover">
+	<thead>Training ID</thead>
+	<thead>Training Name</thead>
+	<thead>Training Description</thead>
+	@foreach (var t in (IEnumerable<Training>) Model)
+	{
+		<tr>
+			<td>
+				@t.tId
+			</td>
+			<td>
+				@t.tName
+			</td>
+			<td>
+				@t.tDesc
+			</td>
+		</tr>
+	}
+</table>
