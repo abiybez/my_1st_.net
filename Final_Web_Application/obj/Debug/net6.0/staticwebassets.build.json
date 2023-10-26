@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KS+rhohMJAbxdeN5eVkoIuPON1p/1yFt6AmBHV0WdwI=",
+  "Hash": "uej66oAWbsa+u4BkJo7Jo11yaOTmFGT/PwycSi3JL+c=",
   "Source": "Final_Web_Application",
   "BasePath": "_content/Final_Web_Application",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Final_Web_Application\\wwwroot",
       "Source": "Final_Web_Application",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Final_Web_Application.styles.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Final_Web_Application.styles.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Final_Web_Application.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Final_Web_Application.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Final_Web_Application.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Final_Web_Application.bundle.scp.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Final_Web_Application.bundle.scp.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Final_Web_Application.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Final_Web_Application.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Final_Web_Application.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\css\\site.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\favicon.ico",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\js\\site.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\0ea50e9d-9bc3-4f13-9803-91ef3d7a238c_400097200939_147776.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\0ea50e9d-9bc3-4f13-9803-91ef3d7a238c_400097200939_147776.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/0ea50e9d-9bc3-4f13-9803-91ef3d7a238c_400097200939_147776.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\0ea50e9d-9bc3-4f13-9803-91ef3d7a238c_400097200939_147776.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\0f456f4d-438e-4d5f-a8c9-9447eb6ae12d_Imgcartoon.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\0f456f4d-438e-4d5f-a8c9-9447eb6ae12d_Imgcartoon.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/0f456f4d-438e-4d5f-a8c9-9447eb6ae12d_Imgcartoon.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\0f456f4d-438e-4d5f-a8c9-9447eb6ae12d_Imgcartoon.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\205bec91-cfc0-4ea2-9a40-25a9bbfa5286_Imgcartoon.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\205bec91-cfc0-4ea2-9a40-25a9bbfa5286_Imgcartoon.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/205bec91-cfc0-4ea2-9a40-25a9bbfa5286_Imgcartoon.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\205bec91-cfc0-4ea2-9a40-25a9bbfa5286_Imgcartoon.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\44516051-d630-454d-aed9-df662415676a_400097200939_147776.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\44516051-d630-454d-aed9-df662415676a_400097200939_147776.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/44516051-d630-454d-aed9-df662415676a_400097200939_147776.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\44516051-d630-454d-aed9-df662415676a_400097200939_147776.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\44e9ef70-737e-492b-b879-abd62c69f423_400097100952_130103.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\44e9ef70-737e-492b-b879-abd62c69f423_400097100952_130103.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/44e9ef70-737e-492b-b879-abd62c69f423_400097100952_130103.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\44e9ef70-737e-492b-b879-abd62c69f423_400097100952_130103.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\46cd900b-1d09-4567-868e-c80582d129e8_400097100952_130103.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\46cd900b-1d09-4567-868e-c80582d129e8_400097100952_130103.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/46cd900b-1d09-4567-868e-c80582d129e8_400097100952_130103.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\46cd900b-1d09-4567-868e-c80582d129e8_400097100952_130103.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\4b333d2e-2ed5-47f6-b026-b12b47d1643c_400097200939_147776.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\4b333d2e-2ed5-47f6-b026-b12b47d1643c_400097200939_147776.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/4b333d2e-2ed5-47f6-b026-b12b47d1643c_400097200939_147776.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\4b333d2e-2ed5-47f6-b026-b12b47d1643c_400097200939_147776.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\57da5620-a591-4eec-818f-272464abf7a1_400097100952_130103.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\57da5620-a591-4eec-818f-272464abf7a1_400097100952_130103.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/57da5620-a591-4eec-818f-272464abf7a1_400097100952_130103.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\57da5620-a591-4eec-818f-272464abf7a1_400097100952_130103.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\68ba052c-7162-4abd-873b-0dae1d34fa2e_400097100952_130103.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\68ba052c-7162-4abd-873b-0dae1d34fa2e_400097100952_130103.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/68ba052c-7162-4abd-873b-0dae1d34fa2e_400097100952_130103.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\68ba052c-7162-4abd-873b-0dae1d34fa2e_400097100952_130103.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\78cab8ba-f4ec-4dee-bb5e-06ce4a7110e9_Imgcartoon.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\78cab8ba-f4ec-4dee-bb5e-06ce4a7110e9_Imgcartoon.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/78cab8ba-f4ec-4dee-bb5e-06ce4a7110e9_Imgcartoon.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\78cab8ba-f4ec-4dee-bb5e-06ce4a7110e9_Imgcartoon.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\839daf2a-1883-4684-95c4-8edc23fc2956_Imgcartoon.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\839daf2a-1883-4684-95c4-8edc23fc2956_Imgcartoon.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/839daf2a-1883-4684-95c4-8edc23fc2956_Imgcartoon.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\839daf2a-1883-4684-95c4-8edc23fc2956_Imgcartoon.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\8a008fda-9d13-43d4-a6f3-59450f76ce08_Imgcartoon.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\8a008fda-9d13-43d4-a6f3-59450f76ce08_Imgcartoon.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/8a008fda-9d13-43d4-a6f3-59450f76ce08_Imgcartoon.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\8a008fda-9d13-43d4-a6f3-59450f76ce08_Imgcartoon.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\c02638f6-d240-4a7e-b3ae-31e44f4b192b_400097100952_130103.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\c02638f6-d240-4a7e-b3ae-31e44f4b192b_400097100952_130103.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/c02638f6-d240-4a7e-b3ae-31e44f4b192b_400097100952_130103.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\c02638f6-d240-4a7e-b3ae-31e44f4b192b_400097100952_130103.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\e0e1acdc-2db5-4016-8041-fba1c62a121f_400097200939_147776.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\e0e1acdc-2db5-4016-8041-fba1c62a121f_400097200939_147776.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/e0e1acdc-2db5-4016-8041-fba1c62a121f_400097200939_147776.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\e0e1acdc-2db5-4016-8041-fba1c62a121f_400097200939_147776.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Gallery\\f4f4b231-d22f-4a21-a90a-78bce80f14b5_400097200939_147776.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Gallery\\f4f4b231-d22f-4a21-a90a-78bce80f14b5_400097200939_147776.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Gallery/f4f4b231-d22f-4a21-a90a-78bce80f14b5_400097200939_147776.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Gallery\\f4f4b231-d22f-4a21-a90a-78bce80f14b5_400097200939_147776.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Image\\0a80de81-c0d5-4ec8-936a-435c8ef9b9fa_400088200396_142508.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Image\\0a80de81-c0d5-4ec8-936a-435c8ef9b9fa_400088200396_142508.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Image/0a80de81-c0d5-4ec8-936a-435c8ef9b9fa_400088200396_142508.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Image\\0a80de81-c0d5-4ec8-936a-435c8ef9b9fa_400088200396_142508.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Image\\1f95d16a-e033-4617-9713-cbca9ef54a76_400088200396_142508.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Image\\1f95d16a-e033-4617-9713-cbca9ef54a76_400088200396_142508.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Image/1f95d16a-e033-4617-9713-cbca9ef54a76_400088200396_142508.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Image\\1f95d16a-e033-4617-9713-cbca9ef54a76_400088200396_142508.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Image\\305f25d7-a29e-4bad-8b32-868a084edbec_400088200396_142508.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Image\\305f25d7-a29e-4bad-8b32-868a084edbec_400088200396_142508.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Image/305f25d7-a29e-4bad-8b32-868a084edbec_400088200396_142508.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Image\\305f25d7-a29e-4bad-8b32-868a084edbec_400088200396_142508.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Image\\59307ad7-275c-4534-ba26-d19ef843108a_400088200396_142508.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Image\\59307ad7-275c-4534-ba26-d19ef843108a_400088200396_142508.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Image/59307ad7-275c-4534-ba26-d19ef843108a_400088200396_142508.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\Training\\Image\\59307ad7-275c-4534-ba26-d19ef843108a_400088200396_142508.jpg"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\Training\\Image\\f2f24bd9-b625-4085-827f-2f0bebc3eca8_400088200396_142508.jpg",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Image\\f2f24bd9-b625-4085-827f-2f0bebc3eca8_400088200396_142508.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\Final_Web_Application\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
       "RelativePath": "Training/Image/f2f24bd9-b625-4085-827f-2f0bebc3eca8_400088200396_142508.jpg",
       "AssetKind": "All",
