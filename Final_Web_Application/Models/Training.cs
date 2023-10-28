@@ -24,7 +24,8 @@ namespace Final_Web_Application.Models
         [Display(Name = " Training Gallery")]
         public IFormFileCollection? gallery { get; set; }
         public List<TrainingGallery> ImageUrls { get; set; }
+		public List<UserTraining> TrainingUsers{ get; set; }
 
-    }
+	}
 }
 

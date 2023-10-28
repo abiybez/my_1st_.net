@@ -15,5 +15,7 @@ namespace Final_Web_Application.Repository
         }
         public DbSet<Training> trainings { get; set; }
         public DbSet<TrainingGallery> trainingGalleries { get; set; }
+        public DbSet<AppUser> Users { get; set; }
+        public DbSet<UserTraining> UserTrainings { get; set; }
     }
 }
