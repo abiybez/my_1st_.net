@@ -65,20 +65,21 @@ namespace Final_Web_Application.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    AppUserUserId = table.Column<int>(type: "int", nullable: true),
-                    TrainingtId = table.Column<int>(type: "int", nullable: true)
+                    UserId = table.Column<int>(type: "int", nullable: false),
+                    TrainingID = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_UserTrainings", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_UserTrainings_trainings_TrainingtId",
-                        column: x => x.TrainingtId,
+                        name: "FK_UserTrainings_trainings_TrainingID",
+                        column: x => x.TrainingID,
                         principalTable: "trainings",
-                        principalColumn: "tId");
+                        principalColumn: "tId",
+                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_UserTrainings_Users_AppUserUserId",
-                        column: x => x.AppUserUserId,
+                        name: "FK_UserTrainings_Users_UserId",
+                        column: x => x.UserId,
                         principalTable: "Users",
                         principalColumn: "UserId");
                 });
@@ -89,14 +90,14 @@ namespace Final_Web_Application.Migrations
                 column: "trainingID");
 
             migrationBuilder.CreateIndex(
-                name: "IX_UserTrainings_AppUserUserId",
+                name: "IX_UserTrainings_UserId",
                 table: "UserTrainings",
-                column: "AppUserUserId");
+                column: "UserId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_UserTrainings_TrainingtId",
+                name: "IX_UserTrainings_TrainingID",
                 table: "UserTrainings",
-                column: "TrainingtId");
+                column: "TrainingID");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

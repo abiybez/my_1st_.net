@@ -8,23 +8,40 @@ namespace Final_Web_Application.Controllers
 {
     public class TrainingController : Controller
     {
+        private readonly IUserRepository _userRepository;
         private readonly ITrainingRepository _trainingRepository;
         private readonly IWebHostEnvironment webHostEnvironment;
 
-        
+		public TrainingController(IUserRepository userRepository, IWebHostEnvironment webHostEnvironment)
+		{
+			this._userRepository = userRepository;
+			this.webHostEnvironment = webHostEnvironment;
+		}
 
-        public TrainingController(ITrainingRepository trainingRepository, IWebHostEnvironment webHostEnvironment)
+		public TrainingController(ITrainingRepository trainingRepository, IUserRepository userRepository, IWebHostEnvironment webHostEnvironment)
+		{
+			this._userRepository = userRepository;
+			this.webHostEnvironment = webHostEnvironment;
+            this._trainingRepository = trainingRepository;
+		}
+
+		public TrainingController(ITrainingRepository trainingRepository, IWebHostEnvironment webHostEnvironment)
         {
             this._trainingRepository = trainingRepository;
             this.webHostEnvironment = webHostEnvironment;
         }
-        public ViewResult GetAllTraining()
+		public ViewResult GetAllTraining()
         {
             List <Training> a = _trainingRepository.getAllTraining();
             return View(a);
         }
+		public ViewResult GetAllUsers()
+		{
+			List<AppUser> a = _userRepository.getAllUser();
+			return View(a);
+		}
 
-        [HttpGet]
+		[HttpGet]
         public ViewResult Create()
         {
             return View();

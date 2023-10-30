@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Final_Web_Application.Migrations
 {
     [DbContext(typeof(SiteDBcontext))]
-    [Migration("20231028125658_init")]
+    [Migration("20231029040303_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -110,14 +110,17 @@ namespace Final_Web_Application.Migrations
                     b.Property<int?>("AppUserUserId")
                         .HasColumnType("int");
 
-                    b.Property<int?>("TrainingtId")
+                    b.Property<int>("TrainingID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
                     b.HasIndex("AppUserUserId");
 
-                    b.HasIndex("TrainingtId");
+                    b.HasIndex("TrainingID");
 
                     b.ToTable("UserTrainings");
                 });
@@ -139,7 +142,9 @@ namespace Final_Web_Application.Migrations
 
                     b.HasOne("Final_Web_Application.Models.Training", null)
                         .WithMany("TrainingUsers")
-                        .HasForeignKey("TrainingtId");
+                        .HasForeignKey("TrainingID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("Final_Web_Application.Models.AppUser", b =>
