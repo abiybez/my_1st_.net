@@ -1,0 +1,37 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<h3>All trainings</h3>
+
+<body>
+    <table class="table table-condensed table-hover">
+        <th><b>Training ID</b></th>
+        <th><b>Training Name</b></th>
+        <th><b>Training Description</b></th>
+        @foreach (var t in (IEnumerable<Training>)Model)
+        {
+            <tr>
+                <form asp-controller="Training" asp-action="Remove_Training" enctype="multipart/form-data" method="get" class="mt-3">
+                    <div class="form-group row">
+                <td>
+                    <p class="card-title">@t.tId</p>
+                </td>
+                <td>
+                    <p class="card-text">@t.tName</p>
+                </td>
+                <td>
+                    <p class="card-text">@t.tDesc</p>
+                </td>
+                </div>
+                <td>
+                    <div class="btn-group">
+                        <a asp-controller="Training" asp-action="Remove_Training" asp-route-id="@t.tId" method="get" class="btn btn-sm btn-outline-secondary">Remove</a>
+                    </div>
+                </td>
+                </form>
+            </tr>
+        }
+    </table>
+</body>
+

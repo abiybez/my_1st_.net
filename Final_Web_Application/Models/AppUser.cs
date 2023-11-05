@@ -14,7 +14,7 @@ namespace Final_Web_Application.Models
 		[DataType(DataType.Password)]
 		public string Password { get; set; }
 		public string Email { get; set; }
-		public List<UserTraining> TrainingUsers { get; set; }
+		public List<Training> UserTrainings { get; set; }
 
 	}
 }

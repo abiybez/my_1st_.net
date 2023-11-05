@@ -3,47 +3,97 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Final_Web_Application</title>
+    <title>@ViewData["Title"] - FIDEL ENTERPRISE</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Final_Web_Application.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Final_WebApplication.styles.css" asp-append-version="true" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/responsive.css" rel="stylesheet" />
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <div class="hero_area">
+        <header class="header_section" style="background-color:black">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Final_Web_Application</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Training" asp-action="Create">Add training</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+                <nav class="navbar navbar-expand-lg custom_nav-container ">
+                    @if (ViewBag.user == null)
+                    {
+                        <a class="navbar-brand" asp-controller="Training" asp-action="Index">
+                            <span>
+                                FIDEL ENTERPRISE
+                            </span>
+                        </a>
+                    }
+                    else
+                    {
+                        <a class="navbar-brand" asp-controller="User" asp-action="Index">
+                            <span>
+                                FIDEL ENTERPRISE
+                            </span>
+                        </a>
+                    }
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+                            <ul class="navbar-nav  ">
+                                 @if (ViewBag.user == null)
+                                {
+                                    <li class="nav-item active">
+                                        <a class="nav-link" asp-area="" asp-controller="Training" asp-action="Index">Home <span class="sr-only"></span></a>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li class="nav-item active">
+                                        <a class="nav-link" asp-area="" asp-controller="User" asp-action="Index">Home <span class="sr-only"></span></a>
+                                    </li>
+                                }
+                                <li class="nav-item ">
+                                    <a class="nav-link" asp-area="" asp-controller="Training" asp-action="GetAllTraining"> Trainings </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="" asp-controller="Training" asp-action="About_Us"> About Us </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="" asp-controller="Training" asp-action="GetAllTraining"> Contact Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="" asp-controller="Training" asp-action="Create"> Contact Us</a>
+                                </li>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - Final_Web_Application - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            </ul>
+                            <div class="user_option">
+                                <form class="form-inline my-2 my-lg-0 ml-0 ml-lg-4 mb-3 mb-lg-0">
+                                    <input style="margin-right: 10px" type="text" asp-controller="Training" asp-action="Search_Training_By_Name"/>
+                                    <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit" asp-controller="Training" asp-action="Search_Training_By_Name"></button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <div>
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
         </div>
-    </footer>
+
+        <footer class="border-top footer text-muted">
+            <div class="container">
+                &copy; 2023 - Final_WebApplication- <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </div>
+        </footer>
+</div>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

@@ -125,7 +125,6 @@ C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\ne
 C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\net6.0\scopedcss\bundle\Final_Web_Application.styles.css
 C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\net6.0\scopedcss\projectbundle\Final_Web_Application.bundle.scp.css
 C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\net6.0\Final_Web_Application.csproj.CopyComplete
@@ -134,3 +133,4 @@ C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\ne
 C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\net6.0\Final_Web_Application.pdb
 C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\net6.0\Final_Web_Application.genruntimeconfig.cache
 C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\net6.0\ref\Final_Web_Application.dll
+C:\Users\Sisay\Desktop\Experiment\my_1st_.net\Final_Web_Application\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
