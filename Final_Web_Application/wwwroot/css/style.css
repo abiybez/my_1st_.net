@@ -18,6 +18,10 @@ body {
   padding-top: 45px;
 }
 
+#header {
+    background-color:black;
+}
+
 .layout_padding2-bottom {
   padding-bottom: 45px;
 }
@@ -387,6 +391,7 @@ a:focus {
 }
 
 .trainer_section {
+  background-color: white;
   background-image: url(../images/ourtrainersbg.jpg);
   background-size: cover;
   background-attachment: fixed;
@@ -609,6 +614,17 @@ a:focus {
   scale: 1.1;
   transition: 300ms;
 }
+
+./*container-fluid {
+    background-color: #02807F;
+}*/
+
+#aboutus {
+    background-image: url(/images/Stories-B1.png);
+    background-size: cover;
+    color: #02807F;
+}
+
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */

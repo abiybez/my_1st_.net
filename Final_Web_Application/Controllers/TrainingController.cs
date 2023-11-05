@@ -17,12 +17,22 @@ namespace Final_Web_Application.Controllers
             this._trainingRepository = trainingRepository;
             this.webHostEnvironment = webHostEnvironment;
         }
-		public ViewResult GetAllTraining()
+        public ViewResult Contact_Us()
+        {
+            return View();
+        }
+        public ViewResult About_Us()
+        {
+            return View();
+        }
+        public ViewResult GetAllTraining()
         {
             List <Training> a = _trainingRepository.getAllTraining();
-            foreach(Training t in a)
+            for (int i = 0; i< a.Count;i++)
             {
-                LoadImage(t);
+                LoadImage(a[i]);
+                a[i].img_loaded = true;
+                a[i].Gallery_loaded = true;
             }
             return View(a);
         }
@@ -34,24 +44,36 @@ namespace Final_Web_Application.Controllers
         {
             if (training.imagePath != null)
             {
-                string imgPath = training.imagePath.Remove(0,1);
-                string load_loc= "C:/Users/Sisay/Desktop/Images for Fidel/" + imgPath;
-                FileStream file = new FileStream(load_loc, FileMode.Open);
-                string serverPath = Path.Combine(webHostEnvironment.WebRootPath, imgPath);
-                file.CopyTo(new FileStream(serverPath, FileMode.Create));
-                training.imagePath = "/" + imgPath;
+                if(training.img_loaded  ==  false)
+                {
+                    string imgPath = training.imagePath.Remove(0, 1);
+                    string load_loc = "C:/Users/Sisay/Desktop/Images for Fidel/" + imgPath;
+                    FileStream file = new FileStream(load_loc, FileMode.Open);
+                    string serverPath = Path.Combine(webHostEnvironment.WebRootPath, imgPath);
+                    FileStream file2 = new FileStream(serverPath, FileMode.Create);
+                    file.CopyTo(file2);
+                    file2.Close();
+                    file.Close();
+                    training.imagePath = "/" + imgPath;
+                }
 
             }
             if (training.ImageUrls != null)
             {
-                foreach (var timg in training.ImageUrls)
+                if(training.Gallery_loaded == false)
                 {
-                    string img = timg.url.Remove(0, 1);
-                    string load_loc = "C:/Users/Sisay/Desktop/Images for Fidel/" + img;
-                    FileStream file = new FileStream(load_loc, FileMode.Open);
-                    string serverPath = Path.Combine(webHostEnvironment.WebRootPath, img);
-                    file.CopyTo(new FileStream(serverPath, FileMode.Create));
-                    timg.url = "/" + img;
+                    foreach (var timg in training.ImageUrls)
+                    {
+                        string img = timg.url.Remove(0, 1);
+                        string load_loc = "C:/Users/Sisay/Desktop/Images for Fidel/" + img;
+                        FileStream file = new FileStream(load_loc, FileMode.Open);
+                        string serverPath = Path.Combine(webHostEnvironment.WebRootPath, img);
+                        FileStream file2 = new FileStream(serverPath, FileMode.Create);
+                        file.CopyTo(file2);
+                        file2.Close();
+                        file.Close();
+                        timg.url = "/" + img;
+                    }
                 }
             }
         }

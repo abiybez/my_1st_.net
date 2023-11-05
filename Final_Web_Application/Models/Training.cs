@@ -24,6 +24,10 @@ namespace Final_Web_Application.Models
         public IFormFileCollection? gallery { get; set; }
         public List<TrainingGallery> ImageUrls { get; set; }
 		public List<AppUser> TrainingUsers{ get; set; }
-	}
+        [NotMapped]
+        public bool img_loaded = false;
+        [NotMapped]
+        public bool Gallery_loaded = false;
+    }
 }
 

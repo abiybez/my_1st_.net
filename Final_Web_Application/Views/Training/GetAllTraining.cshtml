@@ -1,117 +1,36 @@
-﻿
+﻿@{
+    Layout = "_Layout";
+}
+<section class="layout_padding" style="background:rgb(79,74,103);">
 
-
-<body class="sub_page">
-    <section class="trainer_section layout_padding">
-        <div class="container">
-            <div class="heading_container">
-                <h2>
-                    TRAINING PACKAGES
+            <div class="heading_container" style="margin-top:0px;">
+            <h2 style ="color:white">
+                    All Trainings
                 </h2>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-6 mx-auto">
-                    <div class="box">
-                        <div class="name">
-                            <h5>
-                                COURSE 1
-                            </h5>
-                        </div>
-                        <div class="img-box">
-                            <a href="time management.html"><img src="images/time_management-removebg-preview.png" alt=""></a>
-
-                        </div>
-                        <div class="social_box2">
-                            <h5>Time Management</h5>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mx-auto">
-                    <div class="box">
-                        <div class="name">
-                            <h5>
-                                COURSE 2
-                            </h5>
-                        </div>
-                        <div class="img-box">
-                            <a href="emotional intelligence.html"><img src="images/emotional_intelligence-removebg-preview.png" alt=""></a>
-
-                        </div>
-                        <div class="social_box2">
-                            <h5>Emotional Intelligence</h5>
+                @foreach (var b in @Model)
+                {
+                    <div class="col-lg-4 col-md-6 mx-auto">
+                        <div class="box">
+                            <div class="card mb-4 shadow-sm" style="width: 18rem;">
+                                <img src="@b.imagePath" width="50" height="150" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    
+                                    <h3 class="card-title" style="color: black">@b.tName</h3>
+                                <p class="card-text" style="color: black">@b.tDesc</p>
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <div class="btn-group">
+                                            <a asp-controller="" asp-action="GetBookById" asp-route-id="@b.tId" class="btn btn-sm btn-outline-secondary">View Detail</a>
+                                        </div>
+                                        @* <small class="text-muted">Item Unique Name</small> *@
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mx-auto">
-                    <div class="box">
-                        <div class="name">
-                            <h5>
-                                COURSE 3
-                            </h5>
-                        </div>
-                        <div class="img-box">
-                            <a href="anger management.html"><img src="images/anger_management-removebg-preview.png" alt=""></a>
-
-                        </div>
-                        <div class="social_box2">
-                            <h5>Anger management</h5>
-
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-lg-4 col-md-6 mx-auto">
-                    <div class="box">
-                        <div class="name">
-                            <h5>
-                                FULL FLEX PACKAGE
-                            </h5>
-                        </div>
-                        <div class="img-box">
-                            <a href="full flex.html"><img src="images/Full_flex.png" alt=""></a>
-
-                        </div>
-                        <div class="social_box2">
-                            <h6>Time Management</h6>
-                            <h6>Anger Management</h6>
-                            <h6>Emotional Intelligence</h6>
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div class="col-lg-4 col-md-6 mx-auto">
-                    <div class="box">
-                        <div class="name">
-                            <h5>
-                                SEMI FLEX PACKAGE
-                            </h5>
-                        </div>
-                        <div class="img-box">
-                            <a href="semi flex.html"><img src="images/semi_flex.png" alt=""></a>
-
-                        </div>
-                        <div class="social_box2">
-                            <h6>Time Management</h6>
-                            <h6>&</h6>
-                            <h6>Anger Management</h6>
-                            <h6>OR</h6>
-                            <h6>Time Management</h6>
-                            <h6>&</h6>
-                            <h6>Emotional Intelligence</h6>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-
+                }
             </div>
-        </div>
     </section>
 
 
@@ -172,7 +91,3 @@
 
     <script src="js/jquery-3.4.1.min.js"></script>
     <script src="js/bootstrap.js"></script>
-
-</body>
-
-</html>

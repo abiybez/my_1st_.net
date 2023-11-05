@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lCBelhJ7FM1vpArebEDI01gKTtAr4eUWjKbxITGol6M=",
+  "Hash": "sW6k6Kwhv7IQ1SYnGde5YsWnmP0tBdzTJ8z95on/cyY=",
   "Source": "Final_Web_Application",
   "BasePath": "_content/Final_Web_Application",
   "Mode": "Default",
@@ -474,6 +474,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\semi_flex.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\Stories-B1.png",
+      "SourceId": "Final_Web_Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
+      "BasePath": "_content/Final_Web_Application",
+      "RelativePath": "images/Stories-B1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Stories-B1.png"
     },
     {
       "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\telephone-white.png",
