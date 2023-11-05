@@ -5,8 +5,8 @@
       "PackagePath": "staticwebassets\\Final_Web_Application.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Image\\08c47626-c7a2-4595-8879-270ff965eefb_400088200396_142508.jpg",
-      "PackagePath": "staticwebassets\\Training\\Image\\08c47626-c7a2-4595-8879-270ff965eefb_400088200396_142508.jpg"
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\Training\\Image\\6b8b1655-5209-4d46-83e4-301244f211b2_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Image\\6b8b1655-5209-4d46-83e4-301244f211b2_400088200396_142508.jpg"
     },
     {
       "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\css\\bootstrap.css",
@@ -31,6 +31,10 @@
     {
       "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\css\\style.scss",
       "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\desktop.ini",
+      "PackagePath": "staticwebassets\\desktop.ini"
     },
     {
       "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\favicon.ico",

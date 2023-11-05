@@ -38,10 +38,11 @@ namespace Final_WebApplication_Admin.Controllers
                 {
                     String imgPath = "Training/Image/" + Guid.NewGuid().ToString() + "_" + training.trainingImage.FileName;
                     string serverPath = Path.Combine(webHostEnvironment.WebRootPath, imgPath);
-                string serverPath2 = Path.Combine("C:/Users/Sisay/Desktop/Experiment/my_1st_.net/Final_Web_Application/", imgPath);
-                training.trainingImage.CopyTo(new FileStream(serverPath, FileMode.Create));
-                training.trainingImage.CopyTo(new FileStream(serverPath2, FileMode.Create));
-                training.imagePath = "/" + imgPath;
+                    string serverPath2 = Path.Combine("C:/Users/Sisay/Desktop/Images for Fidel", imgPath);
+                    training.trainingImage.CopyTo(new FileStream(serverPath, FileMode.Create));
+                    training.trainingImage.CopyTo(new FileStream(serverPath2, FileMode.Create));
+                    //training.trainingImage = 
+                    training.imagePath = "/" + imgPath;
 
                 }
                 if (training.gallery != null)

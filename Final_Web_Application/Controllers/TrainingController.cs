@@ -20,12 +20,42 @@ namespace Final_Web_Application.Controllers
 		public ViewResult GetAllTraining()
         {
             List <Training> a = _trainingRepository.getAllTraining();
+            foreach(Training t in a)
+            {
+                LoadImage(t);
+            }
             return View(a);
         }
         public ViewResult Create()
         {
             return View();
         }
+        public void LoadImage(Training training)
+        {
+            if (training.imagePath != null)
+            {
+                string imgPath = training.imagePath.Remove(0,1);
+                string load_loc= "C:/Users/Sisay/Desktop/Images for Fidel/" + imgPath;
+                FileStream file = new FileStream(load_loc, FileMode.Open);
+                string serverPath = Path.Combine(webHostEnvironment.WebRootPath, imgPath);
+                file.CopyTo(new FileStream(serverPath, FileMode.Create));
+                training.imagePath = "/" + imgPath;
+
+            }
+            if (training.ImageUrls != null)
+            {
+                foreach (var timg in training.ImageUrls)
+                {
+                    string img = timg.url.Remove(0, 1);
+                    string load_loc = "C:/Users/Sisay/Desktop/Images for Fidel/" + img;
+                    FileStream file = new FileStream(load_loc, FileMode.Open);
+                    string serverPath = Path.Combine(webHostEnvironment.WebRootPath, img);
+                    file.CopyTo(new FileStream(serverPath, FileMode.Create));
+                    timg.url = "/" + img;
+                }
+            }
+        }
+    
         //public ViewResult Index()
         //{
         //    var training = _trainingRepository.getAllTraining();
