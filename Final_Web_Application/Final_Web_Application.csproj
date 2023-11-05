@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\User\" />
     <Folder Include="wwwroot\Training\Gallery\" />
     <Folder Include="wwwroot\Training\Image\" />
   </ItemGroup>

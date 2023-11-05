@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sW6k6Kwhv7IQ1SYnGde5YsWnmP0tBdzTJ8z95on/cyY=",
+  "Hash": "9dNoCHPzKrdzKdrcFt12pjxCamyWeVSu8woWXUrzXqE=",
   "Source": "Final_Web_Application",
   "BasePath": "_content/Final_Web_Application",
   "Mode": "Default",
@@ -153,6 +153,23 @@
       "OriginalItemSpec": "wwwroot\\css\\style.scss"
     },
     {
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\css\\stylLog.css",
+      "SourceId": "Final_Web_Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
+      "BasePath": "_content/Final_Web_Application",
+      "RelativePath": "css/stylLog.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\stylLog.css"
+    },
+    {
       "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\desktop.ini",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
@@ -187,12 +204,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\anger_management-removebg-preview.png",
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\background2.jpg",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
       "BasePath": "_content/Final_Web_Application",
-      "RelativePath": "images/anger_management-removebg-preview.png",
+      "RelativePath": "images/background2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,7 +218,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\anger_management-removebg-preview.png"
+      "OriginalItemSpec": "wwwroot\\images\\background2.jpg"
     },
     {
       "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\dawit dreams.jpg",
@@ -219,23 +236,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\dawit dreams.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\emotional_intelligence-removebg-preview.png",
-      "SourceId": "Final_Web_Application",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
-      "BasePath": "_content/Final_Web_Application",
-      "RelativePath": "images/emotional_intelligence-removebg-preview.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\emotional_intelligence-removebg-preview.png"
     },
     {
       "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\envelope-white.png",
@@ -287,23 +287,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\facebook-logo.png"
-    },
-    {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\Full_flex.png",
-      "SourceId": "Final_Web_Application",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
-      "BasePath": "_content/Final_Web_Application",
-      "RelativePath": "images/Full_flex.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Full_flex.png"
     },
     {
       "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\HBHM.png",
@@ -459,23 +442,6 @@
       "OriginalItemSpec": "wwwroot\\images\\search-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\semi_flex.png",
-      "SourceId": "Final_Web_Application",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
-      "BasePath": "_content/Final_Web_Application",
-      "RelativePath": "images/semi_flex.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\semi_flex.png"
-    },
-    {
       "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\Stories-B1.png",
       "SourceId": "Final_Web_Application",
       "SourceType": "Discovered",
@@ -508,23 +474,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\telephone-white.png"
-    },
-    {
-      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\time_management-removebg-preview.png",
-      "SourceId": "Final_Web_Application",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\",
-      "BasePath": "_content/Final_Web_Application",
-      "RelativePath": "images/time_management-removebg-preview.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\time_management-removebg-preview.png"
     },
     {
       "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\Tseday Asrat.jpg",

@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\css\\stylLog.css",
+      "PackagePath": "staticwebassets\\css\\stylLog.css"
+    },
+    {
       "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
@@ -45,10 +49,6 @@
       "PackagePath": "staticwebassets\\images\\Eshetu.jpg"
     },
     {
-      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\Full_flex.png",
-      "PackagePath": "staticwebassets\\images\\Full_flex.png"
-    },
-    {
       "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\HBHM.png",
       "PackagePath": "staticwebassets\\images\\HBHM.png"
     },
@@ -65,16 +65,12 @@
       "PackagePath": "staticwebassets\\images\\Tseday Asrat.jpg"
     },
     {
-      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\anger_management-removebg-preview.png",
-      "PackagePath": "staticwebassets\\images\\anger_management-removebg-preview.png"
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\background2.jpg",
+      "PackagePath": "staticwebassets\\images\\background2.jpg"
     },
     {
       "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\dawit dreams.jpg",
       "PackagePath": "staticwebassets\\images\\dawit dreams.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\emotional_intelligence-removebg-preview.png",
-      "PackagePath": "staticwebassets\\images\\emotional_intelligence-removebg-preview.png"
     },
     {
       "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\envelope-white.png",
@@ -113,16 +109,8 @@
       "PackagePath": "staticwebassets\\images\\search-icon.png"
     },
     {
-      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\semi_flex.png",
-      "PackagePath": "staticwebassets\\images\\semi_flex.png"
-    },
-    {
       "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\telephone-white.png",
       "PackagePath": "staticwebassets\\images\\telephone-white.png"
-    },
-    {
-      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\time_management-removebg-preview.png",
-      "PackagePath": "staticwebassets\\images\\time_management-removebg-preview.png"
     },
     {
       "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_Web_Application\\wwwroot\\images\\twitter.png",

@@ -33,10 +33,20 @@ namespace Final_Web_Application.Controllers
 			AppUser user = _userRepository.getUserByEmail(email);
 			return View(user);
 		}
+		[HttpGet]
+		public ViewResult AddUser() { return View(); }
+		[HttpPost]
 		public IActionResult AddUser (AppUser user)
 		{
-			AppUser user1 = _userRepository.addUser(user);
-			return Index(user1);
+			if(	null == _userRepository.getUserByEmail(user.Email))
+			{
+                ViewBag.user = _userRepository.addUser(user);
+                return Index(user);
+            }
+			else
+			{
+                return RedirectToAction();
+            }
 		}
 
 		//public List<AppUser> getAllUser();

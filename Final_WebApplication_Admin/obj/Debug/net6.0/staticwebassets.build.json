@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JwFjdKx7yCjKA6LkXvSqbCUHvNnw27mcAW0lfKpBYBM=",
+  "Hash": "tJQYC3kE4WFQH1AgeRpdQ7UNpHgwrtdoVUjwXwOhTx0=",
   "Source": "Final_WebApplication_Admin",
   "BasePath": "_content/Final_WebApplication_Admin",
   "Mode": "Default",
@@ -1086,6 +1086,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Training\\Image\\.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_Admin\\wwwroot\\Training\\Image\\6b8b1655-5209-4d46-83e4-301244f211b2_400088200396_142508.jpg",
+      "SourceId": "Final_WebApplication_Admin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_Admin\\wwwroot\\",
+      "BasePath": "_content/Final_WebApplication_Admin",
+      "RelativePath": "Training/Image/6b8b1655-5209-4d46-83e4-301244f211b2_400088200396_142508.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Training\\Image\\6b8b1655-5209-4d46-83e4-301244f211b2_400088200396_142508.jpg"
     }
   ]
 }

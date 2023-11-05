@@ -55,8 +55,10 @@ namespace Final_WebApplication_Admin.Controllers
                         trainingGallery.url = "Training/Gallery/" + Guid.NewGuid().ToString() +
                                   "_" + timg.FileName;
                         string serverPath = Path.Combine(webHostEnvironment.WebRootPath, trainingGallery.url);
-                        timg.CopyTo(new FileStream(serverPath, FileMode.Create));
-                        training.imagePath = "/" + trainingGallery.url;
+                        string serverPath2 = Path.Combine("C:/Users/Sisay/Desktop/Images for Fidel", trainingGallery.url);
+                    timg.CopyTo(new FileStream(serverPath, FileMode.Create));
+                    timg.CopyTo(new FileStream(serverPath2, FileMode.Create));
+                    training.imagePath = "/" + trainingGallery.url;
                         training.ImageUrls.Add(trainingGallery);
                     }
                 }
