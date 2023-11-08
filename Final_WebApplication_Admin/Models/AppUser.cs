@@ -13,7 +13,8 @@ namespace Final_WebApplication_Admin.Models
 		public string UserName { get; set; }
 		[DataType(DataType.Password)]
 		public string Password { get; set; }
-		public string Email { get; set; }
+        [Required, EmailAddress]
+        public string Email { get; set; }
 		public List<Training> UserTrainings { get; set; }
 
 	}

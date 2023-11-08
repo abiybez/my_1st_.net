@@ -7,30 +7,31 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace Final_Web_Application.Controllers
 {
-    public class TrainingController : Controller
+    public class TrainingController : Controller,IState
     {
-        AppUser Loged_In_User = null;
         private readonly ITrainingRepository _trainingRepository;
         private readonly IWebHostEnvironment webHostEnvironment;
 
-		public TrainingController(ITrainingRepository trainingRepository, IWebHostEnvironment webHostEnvironment)
+        public AppUser Logged_In_User { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
+        public TrainingController(ITrainingRepository trainingRepository, IWebHostEnvironment webHostEnvironment)
         {
             this._trainingRepository = trainingRepository;
             this.webHostEnvironment = webHostEnvironment;
         }
         public ViewResult Contact_Us()
         {
-            ViewBag.user = ViewBag.user;
+            ViewBag.user = IState.Logged_In_User;
             return View();
         }
         public ViewResult About_Us()
         {
-            ViewBag.user = ViewBag.user;
+            ViewBag.user = IState.Logged_In_User; ;
             return View();
         }
         public ViewResult GetAllTraining()
         {
-            ViewBag.user = ViewBag.user;
+            ViewBag.user = IState.Logged_In_User; 
             List <Training> a = _trainingRepository.getAllTraining();
             for (int i = 0; i< a.Count;i++)
             {
@@ -84,18 +85,24 @@ namespace Final_Web_Application.Controllers
         //    return View(training);
         //}
         public ViewResult Index()
-        { return View(); }
+        { 
+            return View(); 
+        }
 
         public ViewResult GetTrainingById(int id)
         {
+            ViewBag.user = IState.Logged_In_User;
             Training t = _trainingRepository.getTrainingById(id);
             return View(t);
         }
         public ViewResult GetTrainingByName(string name)
         {
-            ViewBag.user = ViewBag.user;
             Training t = _trainingRepository.getTrainingByName(name);
             return View(t);
+        }
+        public IActionResult Logout_user() {
+            IState.Logged_In_User = null;
+            return RedirectToAction("Index");    
         }
     }
 }

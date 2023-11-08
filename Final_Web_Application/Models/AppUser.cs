@@ -10,12 +10,15 @@ namespace Final_Web_Application.Models
 		public int UserId { get; set; }
 		[NotMapped]
 		public bool does_user_have_training { get; set; }
-		[Display(Name = "User Name")]
-		public string UserName { get; set; }
-		[DataType(DataType.Password)]
-		public string Password { get; set; }
+        [Required]
+        [Display(Name = "User Name")]
+        public string UserName { get; set; }
+        [Required]
+        [DataType(DataType.Password)]
+        public string Password { get; set; }
 		[NotMapped]
         public string cPwd{ get; set; }
+        [Required, EmailAddress]
         public string Email { get; set; }
 		public List<Training> UserTrainings { get; set; }
 

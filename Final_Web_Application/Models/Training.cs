@@ -15,6 +15,8 @@ namespace Final_Web_Application.Models
         public int tCategory { get; set; }
         [Display(Name = "Training Description")]
         public string tDesc { get; set; }
+        [DataType(DataType.Currency)]
+        public int price { get; set; }
         [NotMapped]
         [Display(Name = "Training Image")]
         public IFormFile? trainingImage { get; set; }
@@ -24,7 +26,6 @@ namespace Final_Web_Application.Models
         public IFormFileCollection? gallery { get; set; }
         public List<TrainingGallery> ImageUrls { get; set; }
         public List<AppUser> TrainingUsers { get; set; }
-        //public int price {get; set;}
         [NotMapped]
         public bool img_loaded = false;
         [NotMapped]

@@ -76,6 +76,9 @@ namespace Final_WebApplication_Admin.Migrations
                     b.Property<string>("imagePath")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("price")
+                        .HasColumnType("int");
+
                     b.Property<int>("tCategory")
                         .HasColumnType("int");
 

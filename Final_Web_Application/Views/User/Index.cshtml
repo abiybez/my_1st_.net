@@ -1,19 +1,19 @@
-﻿@model Final_Web_Application.Models.AppUser;
-@{
+﻿@{
     Layout = "_Layout";
+    AppUser user = ViewBag.user;
 }
 
 
 <div class="hero_area">
-    <section class=" slider_section position-relative">
-        <div class="row" style="color:rgb(39, 34, 63)">
-            @if (Model.does_user_have_training == false)
+    <section class=" slider_section position-relative" style=" background-color:rgb(39, 34, 63);">
+        <div class="row" style="color:white;">
+            @if (user.does_user_have_training == false)
             {
-                <h1>Hey @Model.UserName! You have Not bought any trainings. Check out our <a asp-controller="Training" asp-action="GetAllTrainings">Trainings</a>  </h1>
+                <h1 style="margin-left:20px;">Hey <b>@user.UserName</b>! You have Not bought any trainings. Check out our <a asp-controller="User" asp-action="GetAllTrainings">Trainings</a>  </h1>
             }
             else
             {
-                @foreach (Training b in (IEnumerable<Training>)@Model.UserTrainings)
+                @foreach (Training b in (IEnumerable<Training>) @user.UserTrainings)
                     {
                     <div class="col-lg-4 col-md-6 mx-auto">
                         <div class="box">
@@ -117,7 +117,7 @@
                                 Your Life Is As Good As Your Mindset.
                             </p>
                             <div class="">
-                                <a asp-controller="Training" asp-action="Contact_Us">
+                                <a asp-controller="User" asp-action="Contact_Us">
                                     Contact Us
                                 </a>
                             </div>
@@ -165,7 +165,7 @@
     <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
 </ol>
         </div>
-    </section>
+</section>
 
 </div>
 

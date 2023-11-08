@@ -24,6 +24,7 @@ namespace Final_WebApplication_Admin.Models
         public IFormFileCollection? gallery { get; set; }
         public List<TrainingGallery> ImageUrls { get; set; }
 		public List<AppUser> TrainingUsers{ get; set; }
-	}
+        public int price { get; set; }
+    }
 }
 
