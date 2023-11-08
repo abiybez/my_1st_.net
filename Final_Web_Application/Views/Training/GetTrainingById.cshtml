@@ -1,0 +1,90 @@
+﻿@using Final_Web_Application.Models;
+@model Training;
+@{
+    Layout = "_Layout";
+}
+
+<div class="container" style="background-color:white; width:100%; height:auto;">
+    <h3>Training Details</h3>
+    <hr />
+    <div class="row">
+         <div class="col-md-6">
+             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+                  <div class="carousel-indicators">
+                      @for(int i=0;i<Model.ImageUrls.Count;i++)
+                      {
+                        <button type="button" data-bs-target="#carouselExampleIndicators" 
+                        data-bs-slide-to="@i" class="@(i==0? "active": "")" 
+                        aria-current="true" aria-label="Slide 1"></button>
+                      }
+                  </div>
+                  <div class="carousel-inner">
+                        @for(int i=0;i<Model.ImageUrls.Count;i++)
+                        {
+                             string path = "/" + Model.ImageUrls[i].url;
+                             <div class="@(i==0 ? "carousel-item active":"carousel-item")">
+                                  <img src="@path" class="d-block w-100" alt="...">
+                             </div>
+                        }
+                  </div>
+                  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                  </button>
+                  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                  </button>
+                </div>
+         </div>
+         <div class="col-md-6">
+             <div class="row">
+                 <div class="col-md-12">
+                     <h1>@Model.tName</h1>
+                 </div>
+             </div>
+             </div>
+             <div class="row">
+                 <div class="col-md-12">
+                     <p class="description">
+                         @Model.tDesc
+                     </p>
+                 </div>
+             </div>
+             <div class="row">
+                 <div class="col-md-4">
+                     <button class="btn btn-outline-primary">
+                         Read Now
+                     </button>
+                 </div>
+             </div>
+             <hr />
+             <ul class="list-group">
+                 <li class="list-group-item"><span class="font-weight-bold">Category - </span></li>
+                <li class="list-group-item"><span class="font-weight-bold">Quantity - </span>1</li>
+                @* <li class="list-group-item"><span class="font-weight-bold">Price - </span>@Model.unitPrice</li> *@
+             </ul>
+         </div>
+    </div>
+    <hr />
+    <div class="py-5 bg-light">
+        <h3>Similar Trainings</h3>
+        <div class="row">
+            @for(int i=0;i<Model.ImageUrls.Count;i++)
+            {
+                 <div class="col-md-4">
+                   <div class="card mb-4 shadow-sm" style="width: 18rem;">
+                       <img src="/@Model.ImageUrls[i].url" width="50" height="150" class="card-img-top" alt="...">
+                       <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text  bulk of the card's content.</p>
+                            <div class="btn-group">
+                               <a href="#" class="btn btn-sm btn-outline-secondary">View Detail</a>
+                            </div>
+			</div>
+                   </div>
+               </div>
+            }
+        </div>
+    </div>
+</div>

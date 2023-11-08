@@ -23,7 +23,12 @@
                     </div>
                     <td>
                         <div class="btn-group">
-                        <a asp-controller="Training" asp-action="R+emove_Categories" asp-route-id="@c.CategoryID" method="get" class="btn btn-sm btn-outline-secondary">Remove</a>
+                        <a asp-controller="Training" asp-action="Remove_Categories" asp-route-id="@c.CategoryID" method="get" class="btn btn-sm btn-outline-secondary">Remove</a>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="btn-group">
+                            <a asp-controller="Training" asp-action="Update_Categories" asp-route-id="@c.CategoryID" method="get" class="btn btn-sm btn-outline-secondary">Edit</a>
                         </div>
                     </td>
                 </form>

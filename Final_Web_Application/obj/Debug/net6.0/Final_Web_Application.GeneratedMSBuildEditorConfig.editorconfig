@@ -40,12 +40,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcQ29udGFjdF9Vcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sisay/Desktop/Experiment/my_1st_.net/Final_Web_Application/Views/Training/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Sisay/Desktop/Experiment/my_1st_.net/Final_Web_Application/Views/Training/GetAllTraining.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcR2V0QWxsVHJhaW5pbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sisay/Desktop/Experiment/my_1st_.net/Final_Web_Application/Views/Training/GetTrainingById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcR2V0VHJhaW5pbmdCeUlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Sisay/Desktop/Experiment/my_1st_.net/Final_Web_Application/Views/Training/Index.cshtml]
@@ -54,6 +54,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Sisay/Desktop/Experiment/my_1st_.net/Final_Web_Application/Views/User/AddUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sisay/Desktop/Experiment/my_1st_.net/Final_Web_Application/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sisay/Desktop/Experiment/my_1st_.net/Final_Web_Application/Views/User/Login_User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbl9Vc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Sisay/Desktop/Experiment/my_1st_.net/Final_Web_Application/Views/_ViewImports.cshtml]

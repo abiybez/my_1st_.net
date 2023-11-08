@@ -90,6 +90,54 @@ namespace Final_WebApplication_Admin.Controllers
             return RedirectToAction("GetAllTraining");
         }
         [HttpGet]
+        public async Task<IActionResult> Update_Training(int id)
+        {
+            try
+            {
+                Training t = _trainingRepository.getTrainingById(id);
+                return View(t);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("GetAllTraining");
+            }
+
+        }
+        [HttpPost]
+        public async Task<IActionResult> Update_Training(Training t)
+        {
+            if (t != null)
+            {
+                _trainingRepository.updateTraining(t);
+            }
+
+            return RedirectToAction("GetAllTraining");
+        }
+        [HttpGet]
+        public async Task<IActionResult> Update_Categories(int id)
+        {
+            try
+            {
+                TrainingCategory tc= _trainingRepository.getCategoryByID(id);
+                return View(tc);
+            }
+            catch (Exception ex)
+            {
+                return RedirectToAction("GetAllTraining");
+            }
+
+        }
+        [HttpPost]
+        public async Task<IActionResult> Update_Categories(TrainingCategory tc)
+        {
+            if (tc != null)
+            {
+                _trainingRepository.updateCategory(tc);
+            }
+
+            return RedirectToAction("GetAllTraining");
+        }
+        [HttpGet]
 		public async Task<IActionResult> Remove_Categories (int id)
         {
             try

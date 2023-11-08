@@ -4,7 +4,8 @@ namespace Final_Web_Application.Repository
 {
 	public interface IUserRepository
 	{
-		public List<AppUser> getAllUser();
+		public AppUser getUserByUserName(string uName);
+        public List<AppUser> getAllUser();
 		public List<Training> getUserTrainings(int userID);
 		public AppUser getUserByID(int userID);
 		public AppUser getUserByEmail(string Email);

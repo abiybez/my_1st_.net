@@ -63,6 +63,21 @@ namespace Final_WebApplication_Admin.Repository
                 return training; 
         }
 
+        public Training updateTraining(Training training)
+        {
+            var modifiedproduct = _context.trainings.Attach(training);
+            modifiedproduct.State = EntityState.Modified;
+            _context.SaveChanges();
+            return training;
+        }
+        public TrainingCategory updateCategory(TrainingCategory tc)
+        {
+            var modifiedproduct = _context.category.Attach(tc);
+            modifiedproduct.State = EntityState.Modified;
+            _context.SaveChanges();
+            return tc;
+        }
+
         public Training getTrainingByName(string Name)
         {
             return _context.trainings.Find(Name);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "910DKPLswz6i2+tIJvB4ZAVFIzFfQ3Sl8/3evNriXJyJO8urI1igxrglqfhMaemVPW8d3Y+4E7FJin8iBKV/gQ==",
+  "dgSpecHash": "Asq6DMfFIJAU5uh3p2W0oTy4+UCb5cxhPdV4I2ij/cD9lgJLbFwFHU4pO2EPvfrHFK35FIwnTOJPR79e/4QXHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_Admin\\Final_WebApplication_Admin.csproj",
+  "projectFilePath": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\Final_WebApplication_Admin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sisay\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sisay\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

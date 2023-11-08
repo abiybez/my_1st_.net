@@ -62,7 +62,7 @@ namespace Final_WebApplication_Admin.Controllers
 		{
 			return View();
 		}
-
+        [HttpPost]
         public IActionResult AddUser (AppUser user)
 		{
 			_userRepository.addUser(user);

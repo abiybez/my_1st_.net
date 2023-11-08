@@ -9,6 +9,7 @@ namespace Final_Web_Application.Controllers
 {
     public class TrainingController : Controller
     {
+        AppUser Loged_In_User = null;
         private readonly ITrainingRepository _trainingRepository;
         private readonly IWebHostEnvironment webHostEnvironment;
 
@@ -19,14 +20,17 @@ namespace Final_Web_Application.Controllers
         }
         public ViewResult Contact_Us()
         {
+            ViewBag.user = ViewBag.user;
             return View();
         }
         public ViewResult About_Us()
         {
+            ViewBag.user = ViewBag.user;
             return View();
         }
         public ViewResult GetAllTraining()
         {
+            ViewBag.user = ViewBag.user;
             List <Training> a = _trainingRepository.getAllTraining();
             for (int i = 0; i< a.Count;i++)
             {
@@ -35,10 +39,6 @@ namespace Final_Web_Application.Controllers
                 a[i].Gallery_loaded = true;
             }
             return View(a);
-        }
-        public ViewResult Create()
-        {
-            return View();
         }
         public void LoadImage(Training training)
         {
@@ -93,6 +93,7 @@ namespace Final_Web_Application.Controllers
         }
         public ViewResult GetTrainingByName(string name)
         {
+            ViewBag.user = ViewBag.user;
             Training t = _trainingRepository.getTrainingByName(name);
             return View(t);
         }

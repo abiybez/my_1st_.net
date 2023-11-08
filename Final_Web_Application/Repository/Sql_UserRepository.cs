@@ -24,11 +24,29 @@ namespace Final_Web_Application.Repository
 
 		public AppUser getUserByEmail(string Email)
 		{
-			AppUser user= _context.Users.Find(Email);
-			return user;
+			try
+			{
+                AppUser user = _context.Users.First(x => x.Email == Email);
+				return user;
+			}
+			catch
+			{
+				return null;
+			}
 		}
-
-		public AppUser getUserByID(int userID)
+        public AppUser getUserByUserName(string uName)
+        {
+			try
+			{
+                AppUser user = _context.Users.First(x => x.UserName == uName);
+                return user;
+            }
+			catch (Exception ex)
+			{
+				return null;
+			}
+        }
+        public AppUser getUserByID(int userID)
 		{
 			AppUser user= _context.Users.Find(userID);
 			return user;
@@ -36,16 +54,22 @@ namespace Final_Web_Application.Repository
 
 		public List<Training> getUserTrainings(int userID)
 		{
-
-			List<UserTraining> UserTrainings= _context.UserTrainings.Where(x => x.UserId == userID).ToList();
-			List<Training> trainings = new List<Training>();
-			Sql_TrainingRepository s = new Sql_TrainingRepository(_context);
-			foreach (var x in UserTrainings)
+			try
 			{
-				trainings.Add(s.getTrainingById(x.TrainingID));
-			}
+				List<UserTraining> UserTrainings = _context.UserTrainings.Where(x => x.UserId == userID).ToList();
+				List<Training> trainings = new List<Training>();
+				Sql_TrainingRepository s = new Sql_TrainingRepository(_context);
+				foreach (var x in UserTrainings)
+				{
+					trainings.Add(s.getTrainingById(x.TrainingID));
+				}
 
 				return trainings;
-		}
+
+			}
+			catch(Exception ex) {
+				return null;
+			}
+		}	
 	}
 }

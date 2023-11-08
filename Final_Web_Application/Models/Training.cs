@@ -5,14 +5,14 @@ namespace Final_Web_Application.Models
 {
     public class Training
     {
-		[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-		[Key]
-		public int tId { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Key]
+        public int tId { get; set; }
         [Display(Name = "Training Name")]
         public string tName { get; set; }
-		[Display(Name = "Training Category")]
-        [ForeignKey("TrainingCategory") ]
-        public int tCategory {  get; set; }  
+        [Display(Name = "Training Category")]
+        [ForeignKey("TrainingCategory")]
+        public int tCategory { get; set; }
         [Display(Name = "Training Description")]
         public string tDesc { get; set; }
         [NotMapped]
@@ -23,7 +23,8 @@ namespace Final_Web_Application.Models
         [Display(Name = " Training Gallery")]
         public IFormFileCollection? gallery { get; set; }
         public List<TrainingGallery> ImageUrls { get; set; }
-		public List<AppUser> TrainingUsers{ get; set; }
+        public List<AppUser> TrainingUsers { get; set; }
+        //public int price {get; set;}
         [NotMapped]
         public bool img_loaded = false;
         [NotMapped]

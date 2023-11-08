@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_Admin\\Final_WebApplication_Admin.csproj": {}
+    "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\Final_WebApplication_Admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_Admin\\Final_WebApplication_Admin.csproj": {
+    "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\Final_WebApplication_Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_Admin\\Final_WebApplication_Admin.csproj",
+        "projectUniqueName": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\Final_WebApplication_Admin.csproj",
         "projectName": "Final_WebApplication_Admin",
-        "projectPath": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_Admin\\Final_WebApplication_Admin.csproj",
+        "projectPath": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\Final_WebApplication_Admin.csproj",
         "packagesPath": "C:\\Users\\Sisay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_Admin\\obj\\",
+        "outputPath": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sisay\\AppData\\Roaming\\NuGet\\NuGet.Config",
