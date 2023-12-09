@@ -16,7 +16,11 @@
                     <div class="card-body">
                         <h3 class="card-title">@b.tName</h3>
                         <p class="card-text">@b.tDesc</p>
+                        <p class="currency">@b.price</p>
                         <div class="d-flex justify-content-between align-items-center">
+                            <div class="btn-group">
+                                <a asp-controller="" asp-action="GetTrainingById" asp-route-id="@b.tId" class="btn btn-sm btn-outline-secondary">View Detail</a>
+                            </div>
                         </div>
                     </div>
                 </div>

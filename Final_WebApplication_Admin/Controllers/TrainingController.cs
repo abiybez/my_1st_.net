@@ -118,7 +118,7 @@ namespace Final_WebApplication_Admin.Controllers
         {
             try
             {
-                TrainingCategory tc= _trainingRepository.getCategoryByID(id);
+                TrainingCategory tc = _trainingRepository.getCategoryByID(id);
                 return View(tc);
             }
             catch (Exception ex)
@@ -137,6 +137,7 @@ namespace Final_WebApplication_Admin.Controllers
 
             return RedirectToAction("GetAllTraining");
         }
+        [HttpGet]
         [HttpGet]
 		public async Task<IActionResult> Remove_Categories (int id)
         {
@@ -202,12 +203,12 @@ namespace Final_WebApplication_Admin.Controllers
         {
                 Training t = _trainingRepository.getTrainingById(id);
                 return View(t);
-            }
-            public ViewResult GetTrainingByName(string name)
-            {
-                Training t = _trainingRepository.getTrainingByName(name);
-                return View(t);
-            }
         }
+        public ViewResult GetTrainingByName(string name)
+        {
+            Training t = _trainingRepository.getTrainingByName(name);
+            return View(t);
+        }
+      }
     
 }

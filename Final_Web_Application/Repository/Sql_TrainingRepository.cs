@@ -1,5 +1,7 @@
-﻿using System.Linq;
+﻿using System.Collections.Generic;
+using System.Linq;
 using System.Net;
+using System.Security.Cryptography;
 using Final_Web_Application.Models;
 using Final_Web_Application.Repository;
 
@@ -19,7 +21,12 @@ namespace Final_Web_Application.Repository
             _context.SaveChanges();
             return training;
         }
-
+        public UserTraining addUserTraining(UserTraining ut)
+        {
+            _context.UserTrainings.Add(ut);
+            _context.SaveChanges();
+            return ut;
+        }
         public List<Training> getAllTraining()
         {
             return _context.trainings.ToList();
@@ -33,9 +40,10 @@ namespace Final_Web_Application.Repository
                 return training; 
         }
 
-        public Training getTrainingByName(string Name)
+        public List<Training> getTrainingByName(string Name)
         {
-            return _context.trainings.Find(Name);
+            List < Training > t = _context.trainings.Where(x => x.tName == Name).ToList();
+            return t;
         }
         int count = 0;
         public int getTrainingCount()

@@ -1,4 +1,5 @@
-﻿@{
+﻿@model SendMailDto
+@{
     Layout = "_Layout";
 }
 <section class="contact_section ">
@@ -18,21 +19,18 @@
                     </div>
                     <form action="">
                         <div>
-                            <input type="text" placeholder="Name" />
+                            <input asp-for="@Model.Name" type="text" placeholder="Name" />
                         </div>
                         <div>
-                            <input type="email" placeholder="Email" />
+                            <input asp-for="@Model.Subject" type="text" placeholder="Email" />
                         </div>
                         <div>
-                            <input type="text" placeholder="Phone Number" />
-                        </div>
-                        <div>
-                            <input type="text" class="message-box" placeholder="Message" />
+                            <input asp-for="@Model.Message" type="text" class="message-box" placeholder="Message" />
                         </div>
                         <div class="d-flex ">
-                            <button>
+                            <input type="submit" class="btn" asp-controller="Training" asp-action="ContactUs">
                                 Send
-                            </button>
+                            </input>
                         </div>
                     </form>
                 </div>

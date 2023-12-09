@@ -17,7 +17,10 @@
             <input asp-for="@Model.tDesc" value="@Model.tDesc" class="form-control mb-2"/>
             <input type="hidden" asp-for="@Model.tId" value="@Model.tId" class="form-control mb-2" />
             <input type="hidden" asp-for="@Model.imagePath" value="@Model.imagePath" class="form-control mb-2" />
+            <input type="hidden" asp-for="@Model.ImageUrls" value="@Model.ImageUrls" class="form-control mb-2" />
             <input type="hidden" asp-for="@Model.tCategory" value="@Model.tCategory" class="form-control mb-2" />
+            <h3>Training Price</h3>
+            <input type="number" asp-for="@Model.price" value="@Model.price" class="form-control mb-2" />
         </div>
         <div class="form-group">
             <input asp-controller="Training" type="submit" value="Edit" class="btn btn-Primary" style="background-color:blue;color:white;" />

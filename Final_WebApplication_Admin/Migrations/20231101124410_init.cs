@@ -60,7 +60,6 @@ namespace Final_WebApplication_Admin.Migrations
                     tCategory = table.Column<int>(type: "int", nullable: false),
                     tDesc = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     imagePath = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    price = table.Column<int>(type: "int", nullable: false),
                     TrainingCategoryCategoryID = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>

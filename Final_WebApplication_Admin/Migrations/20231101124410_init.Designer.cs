@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Final_WebApplication_Admin.Migrations
 {
     [DbContext(typeof(SiteDBcontext))]
-    [Migration("20231108063933_init")]
+    [Migration("20231101124410_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -77,9 +77,6 @@ namespace Final_WebApplication_Admin.Migrations
 
                     b.Property<string>("imagePath")
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("price")
-                        .HasColumnType("int");
 
                     b.Property<int>("tCategory")
                         .HasColumnType("int");

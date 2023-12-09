@@ -25,6 +25,6 @@ namespace Final_WebApplication_Admin.Models
         public List<TrainingGallery> ImageUrls { get; set; }
 		public List<AppUser> TrainingUsers{ get; set; }
         public int price { get; set; }
-    }
+	}
 }
 

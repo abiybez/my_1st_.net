@@ -48,13 +48,13 @@
                             <ul class="navbar-nav  ">
                                  @if (ViewBag.user == null)
                                 {
-                                    <li class="nav-item active">
+                                    <li class="nav-item">
                                         <a class="nav-link" asp-area="" asp-controller="Training" asp-action="Index">Home</a>
                                     </li>
                                 }
                                 else
                                 {
-                                    <li class="nav-item active">
+                                    <li class="nav-item ">
                                         <a class="nav-link" asp-area="" asp-controller="User" asp-action="Index">Home </a>
                                     </li>
                                 }
@@ -70,8 +70,8 @@
                             </ul>
                             <div class="user_option">
                                 <form class="form-inline my-2 my-lg-0 ml-0 ml-lg-4 mb-3 mb-lg-0">
-                                    <input style="margin-right: 10px" type="text" asp-controller="Training" asp-action="Search_Training_By_Name"/>
-                                    <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit" asp-controller="Training" asp-action="Search_Training_By_Name"></button>
+                                    <input style="margin-right: 10px" type="text" asp-controller="Training" asp-action="GetTrainingByName"/>
+                                    <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit" asp-controller="Training" asp-action="GetTrainingByName"></button>
                                 </form>
                             </div>
                             @if (ViewBag.user == null)
@@ -104,11 +104,7 @@
             </main>
         </div>
 
-        <footer class="border-top footer text-muted">
-            <div class="container">
-                &copy; 2023 - Final_WebApplication- <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-            </div>
-        </footer>
+
 </div>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

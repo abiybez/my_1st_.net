@@ -32,32 +32,39 @@ namespace Final_Web_Application.Controllers
 		[HttpPost]
 		public IActionResult AddUser (AppUser user)
 		{
-			if (_userRepository.getUserByEmail(user.Email) == null)
-			{
-				if (_userRepository.getUserByUserName(user.UserName) == null)
-				{
-					if(user.Password==user.cPwd){
-                        IState.Logged_In_User = _userRepository.addUser(user);
-                        List<Training> t = _userRepository.getUserTrainings(IState.Logged_In_User.UserId);
-                        if (t != null)
+            try {
+                var emailAddress = new MailAddress(user.Email);
+                if (_userRepository.getUserByEmail(user.Email) == null)
+                {
+                    if (_userRepository.getUserByUserName(user.UserName) == null)
+                    {
+                        if (user.Password == user.cPwd)
                         {
-                            IState.Logged_In_User.does_user_have_training = true;
-                            IState.Logged_In_User.UserTrainings = t;
+                            IState.Logged_In_User = _userRepository.addUser(user);
+                            List<Training> t = _userRepository.getUserTrainings(IState.Logged_In_User.UserId);
+                            if (t.Count != 0)
+                            {
+                                IState.Logged_In_User.does_user_have_training = true;
+                                IState.Logged_In_User.UserTrainings = t;
+                            }
+                            else
+                            {
+                                IState.Logged_In_User.does_user_have_training = false;
+                            }
+                            return RedirectToAction("Index");
                         }
-                        else
-                        {
-                            IState.Logged_In_User.does_user_have_training = false;
-                        }
-                        return RedirectToAction("Index");
-					}
+                        else return RedirectToAction();
+                    }
                     else return RedirectToAction();
                 }
-				else return RedirectToAction();
-			}
-			else
-			{
-				return RedirectToAction();
-			}
+                else
+                {
+                    return RedirectToAction();
+                }
+            }
+            catch {
+                return RedirectToAction();
+            }
 		}
         [HttpGet]
         public ViewResult Login_User() { return View(); }
