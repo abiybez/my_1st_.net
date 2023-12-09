@@ -1,0 +1,69 @@
+﻿@using Final_Web_Application.Models;
+@model Training;
+@{
+    Layout = "_Layout";
+}
+
+<div class="layout_padding" style="background-color:white; width:100%; height:auto;">
+    <div class="container" style="background-color:white; width:100%; height:auto;">
+    <h3>Training Details</h3>
+    <hr />
+    <div class="row">
+         <div class="col-md-6">
+             <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+                  <div class="carousel-indicators">
+                      @for(int i=0;i<Model.ImageUrls.Count;i++)
+                      {
+                        <button type="button" data-bs-target="#carouselExampleIndicators" 
+                        data-bs-slide-to="@i" class="@(i==0? "active": "")" 
+                        aria-current="true" aria-label="Slide 1"></button>
+                      }
+                  </div>
+                  <div class="carousel-inner">
+                        @for(int i=0;i<Model.ImageUrls.Count;i++)
+                        {
+                             string path =  Model.ImageUrls[i].url;
+                             <div class="@(i==0 ? "carousel-item active":"carousel-item")">
+                                  <img src="@path" class="d-block w-100" alt="...">
+                             </div>
+                        }
+                  </div>
+                  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                  </button>
+                  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                  </button>
+                </div>
+         </div>
+         <div class="col-md-6">
+             <div class="row">
+                 <div class="col-md-12">
+                     <h1>@Model.tName</h1>
+                 </div>
+                 <div class="col-md-12">
+                     <p class="description">@Model.tDesc</p>
+                 </div>
+                 <ul class="list-group">
+                     <li class="list-group-item"><span class="font-weight-bold">Price - </span>@Model.price</li>
+                        @if(ViewBag.user == null)
+                        {
+                            <a class="btn btn-primary" asp-controller="User" asp-action="Login_User">Buy Course</a>
+                        }
+                        else{
+                            <a class="btn btn-primary" asp-controller="Training" asp-action="Buy_course" asp-route-id="@Model.tId">Buy Course</a>
+                     }
+                 </ul>
+             </div>
+             </div>
+
+             <hr />
+             
+         </div>
+    </div>
+    <hr />
+</div>
+</div>
+

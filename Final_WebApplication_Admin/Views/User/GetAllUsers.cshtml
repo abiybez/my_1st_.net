@@ -1,0 +1,33 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<h3>All Users</h3>
+
+<body>
+    <table class="table table-condensed table-hover">
+        <th><b>User ID</b></th>
+        <th><b>User Name</b></th>
+        <th><b>Email</b></th>
+        @foreach (var u in (IEnumerable<AppUser>)Model)
+        {
+            <tr>
+                <td>
+                    <p class="card-text">@u.UserId</p>
+                </td>
+                <td>
+                    <p class="card-text">@u.UserName</p>
+                </td>
+                <td>
+                    <p class="card-text">@u.Email</p>
+                </td>
+                <td>
+                    <div class="btn-group">
+                        <a asp-controller="User" asp-action="Remove_User" asp-route-id="@u.UserId" method="get" class="btn btn-sm btn-outline-secondary">Remove</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+

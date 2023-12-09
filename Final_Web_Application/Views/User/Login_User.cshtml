@@ -1,0 +1,19 @@
+﻿@model Final_Web_Application.Models.AppUser;
+@{
+    Layout = "_Layout";
+}
+<body id="container">
+    <div id="box-log">
+        <section id="log-form">
+            <h1 id="h1-log">FIDEL ENTERPRISE</h1>
+            <h2 id="h2-log">LOGIN</h2>
+            <form id="big-form"  asp-controller="User" asp-action="Login_User" enctype="multipart/form-data" method="post">
+                <input id="form" asp-for="@Model.UserName" type="text" placeholder="USERNAME" required>
+                <input id="form" asp-for="@Model.Email" type="text" placeholder="EMAIL" required>
+                <input id="form" asp-for="@Model.Password" type="password" placeholder="PASSWORD" required>
+                <button id="btn" class="btn btn-primary" type="submit">LOGIN</button>
+                <a id="btn" class="btn btn-primary" asp-controller="User" asp-action="AddUser"><p style="margin:5px;">GO TO REGISTRATION</p></a>
+            </form>
+        </section>
+    </div>
+</body>>

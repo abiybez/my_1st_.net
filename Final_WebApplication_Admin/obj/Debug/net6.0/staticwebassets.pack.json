@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Final_WebApplication_Admin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Final_WebApplication_Admin.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\0c5e6988-26d2-4388-abf0-44996f8266e5_400097100952_130103.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\0c5e6988-26d2-4388-abf0-44996f8266e5_400097100952_130103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\0d8e3311-2344-4aeb-bd92-0417cf1063ee_400097100952_130103.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\0d8e3311-2344-4aeb-bd92-0417cf1063ee_400097100952_130103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\10150694-f7d5-4b7f-98f4-da43722154df_400097100952_130103.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\10150694-f7d5-4b7f-98f4-da43722154df_400097100952_130103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\123c15f4-ae87-429b-9074-60808320edd5_400097200939_147776.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\123c15f4-ae87-429b-9074-60808320edd5_400097200939_147776.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\1e6a9d93-10ac-42a2-8273-c58752e8c8a9_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\1e6a9d93-10ac-42a2-8273-c58752e8c8a9_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\2f8fbe4d-9591-4152-b7e3-4f0ede54c5c4_400097100952_130103.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\2f8fbe4d-9591-4152-b7e3-4f0ede54c5c4_400097100952_130103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\46438ede-5757-455e-928f-c70b02627355_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\46438ede-5757-455e-928f-c70b02627355_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\76e87285-f6cc-4dba-b213-094d7711c79b_400097200939_147776.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\76e87285-f6cc-4dba-b213-094d7711c79b_400097200939_147776.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\7c8814b5-1970-4bfc-b675-02fb4bfe4de6_Imgcartoon.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\7c8814b5-1970-4bfc-b675-02fb4bfe4de6_Imgcartoon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\8a0c4173-5010-4c5d-8598-0b94717ed369_400097100952_130103.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\8a0c4173-5010-4c5d-8598-0b94717ed369_400097100952_130103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\915d87af-4a34-4c7d-91d6-43dd93942630_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\915d87af-4a34-4c7d-91d6-43dd93942630_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\934b3fde-5bfe-4ac4-b6c8-e4849213d249_400097200939_147776.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\934b3fde-5bfe-4ac4-b6c8-e4849213d249_400097200939_147776.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\9758e56d-9e64-4152-afa2-e817cc36db6e_400097200939_147776.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\9758e56d-9e64-4152-afa2-e817cc36db6e_400097200939_147776.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\9784fc80-c5de-423e-84d7-6545dbba5289_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\9784fc80-c5de-423e-84d7-6545dbba5289_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\998be3cc-ae58-4a5f-bdda-82d07f8693d6_400097100952_130103.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\998be3cc-ae58-4a5f-bdda-82d07f8693d6_400097100952_130103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\a931bd43-1a91-4207-a66a-f08fcbb35322_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\a931bd43-1a91-4207-a66a-f08fcbb35322_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\b3dc7182-0294-480f-9d57-0aa0ddbf0176_400097200939_147776.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\b3dc7182-0294-480f-9d57-0aa0ddbf0176_400097200939_147776.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\c04439fa-9e27-4611-a2fa-c22962fe1c72_400097200939_147776.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\c04439fa-9e27-4611-a2fa-c22962fe1c72_400097200939_147776.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\cae2fe6d-4004-48f3-900d-bb00d96dc010_400097200939_147776.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\cae2fe6d-4004-48f3-900d-bb00d96dc010_400097200939_147776.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\ceb6f77c-5ca9-4e1b-9970-4418a8eec30b_400097100952_130103.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\ceb6f77c-5ca9-4e1b-9970-4418a8eec30b_400097100952_130103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Gallery\\ef63123b-8c5c-4442-84fd-ea1d366fd356_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Gallery\\ef63123b-8c5c-4442-84fd-ea1d366fd356_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Image\\38198ca2-0b43-4880-b630-13e14b5daf53_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Image\\38198ca2-0b43-4880-b630-13e14b5daf53_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Image\\39160a58-318c-47c1-b76a-a637f6dc7477_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Image\\39160a58-318c-47c1-b76a-a637f6dc7477_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Image\\3b41c8f5-5677-4a2b-b5c5-060851cb73b2_400097200939_147776.jpg",
+      "PackagePath": "staticwebassets\\Training\\Image\\3b41c8f5-5677-4a2b-b5c5-060851cb73b2_400097200939_147776.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Image\\6b8b1655-5209-4d46-83e4-301244f211b2_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Image\\6b8b1655-5209-4d46-83e4-301244f211b2_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Image\\ba41b06e-bf4d-479b-8ccd-239f286579b3_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Image\\ba41b06e-bf4d-479b-8ccd-239f286579b3_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Image\\c34fe36b-bd63-4f27-bd0f-99ecfb7ec69d_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Image\\c34fe36b-bd63-4f27-bd0f-99ecfb7ec69d_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Image\\cf6cf3d5-30a6-4fc5-b431-45de44155bfe_400088200396_142508.jpg",
+      "PackagePath": "staticwebassets\\Training\\Image\\cf6cf3d5-30a6-4fc5-b431-45de44155bfe_400088200396_142508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\Training\\Image\\eaf7ac4f-3f49-451f-8f2c-0d3f3b9e77e7_400097100952_130103.jpg",
+      "PackagePath": "staticwebassets\\Training\\Image\\eaf7ac4f-3f49-451f-8f2c-0d3f3b9e77e7_400097100952_130103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sisay\\Desktop\\Experiment\\my_1st_.net\\Final_WebApplication_admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Final_WebApplication_Admin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Final_WebApplication_Admin.props",
+      "PackagePath": "build\\Final_WebApplication_Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Final_WebApplication_Admin.props",
+      "PackagePath": "buildMultiTargeting\\Final_WebApplication_Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Final_WebApplication_Admin.props",
+      "PackagePath": "buildTransitive\\Final_WebApplication_Admin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
